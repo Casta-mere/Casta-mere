@@ -8,12 +8,9 @@
 - 🎵 I like Avicii's song ◢◤
 - 📫 How to reach me: [castamerego@gmail.com](mailto:castamerego@gmail.com)
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=82298017" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=82298017&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Casta-mere" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=82298017&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+![](https://raw.githubusercontent.com/casta-mere/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/casta-mere/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,pycharm,bash,linux,windows,ubuntu)](https://skillicons.dev)
 
