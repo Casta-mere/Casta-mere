@@ -12,7 +12,7 @@
 ![](https://raw.githubusercontent.com/casta-mere/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,pycharm,bash,linux,windows,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,pycharm,bash,linux,windows,ubuntu,apple)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cs,ts,js,html,css,latex)](https://skillicons.dev)
 
