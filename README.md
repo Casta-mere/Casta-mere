@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Castamere
 
 - 🖥️ Visit [castamerego.com](https://castamerego.com) for my website and blogs
-- 🔭 I’m currently working as full stack developer in network security industry
+- 🔭 I’m currently working as full stack developer with [@feedme](https://github.com/feedmepos)
 - 🌱 I’m currently learning Openstack, Kubernetes, and other cloud technologies
 - 💬 Ask me about docusaurus & python & Docker
 - 📚 I like A Song of Ice & Fire
