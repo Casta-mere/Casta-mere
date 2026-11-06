@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Openstack, Kubernetes, and other cloud technologies
 - 💬 Ask me about docusaurus & python & Docker
 - 📚 I like A Song of Ice & Fire
-- 🎵 I like Avicii's song ◢◤
+- 🎵 I like Avicii ◢ ◤
 - 📫 How to reach me: [castamerego@gmail.com](mailto:castamerego@gmail.com)
 
 ![](https://raw.githubusercontent.com/casta-mere/github-stats/master/generated/overview.svg#gh-light-mode-only)
