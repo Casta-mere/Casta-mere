@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-06T08:47:59.467Z",
+  "user": {
+    "login": "Casta-mere",
+    "name": "Castamere",
+    "createdYear": 2021,
+    "followers": 20
+  },
+  "repos": {
+    "count": 69,
+    "stars": 21,
+    "forks": 5,
+    "top": [
+      {
+        "name": "LaTeX-GraduationTemplate",
+        "stars": 5,
+        "language": "TeX"
+      },
+      {
+        "name": "Read-Book",
+        "stars": 4,
+        "language": "TeX"
+      },
+      {
+        "name": "My-Website",
+        "stars": 3,
+        "language": "TypeScript"
+      },
+      {
+        "name": "Dash-Board",
+        "stars": 2,
+        "language": "TypeScript"
+      },
+      {
+        "name": "CPP-Ticket",
+        "stars": 2,
+        "language": "TypeScript"
+      },
+      {
+        "name": "Safehome",
+        "stars": 1,
+        "language": "HTML"
+      }
+    ]
+  },
+  "contributions": {
+    "allTime": 2731,
+    "pastYear": 909,
+    "commits": 753,
+    "pullRequests": 97,
+    "issues": 20,
+    "reviews": 17,
+    "private": 0
+  },
+  "calendar": {
+    "weeks": [
+      18,
+      8,
+      4,
+      1,
+      4,
+      0,
+      0,
+      1,
+      2,
+      10,
+      2,
+      4,
+      28,
+      12,
+      12,
+      3,
+      13,
+      13,
+      11,
+      14,
+      3,
+      20,
+      22,
+      30,
+      23,
+      6,
+      7,
+      9,
+      15,
+      8,
+      16,
+      5,
+      43,
+      20,
+      21,
+      22,
+      66,
+      11,
+      3,
+      21,
+      19,
+      2,
+      25,
+      42,
+      24,
+      10,
+      1,
+      0,
+      13,
+      54,
+      77,
+      54,
+      57
+    ]
+  },
+  "languages": [
+    {
+      "name": "Python",
+      "color": "#3572A5",
+      "bytes": 5452155
+    },
+    {
+      "name": "C#",
+      "color": "#7355dd",
+      "bytes": 5087006
+    },
+    {
+      "name": "JavaScript",
+      "color": "#f1e05a",
+      "bytes": 4236842
+    },
+    {
+      "name": "TypeScript",
+      "color": "#3178c6",
+      "bytes": 4193067
+    },
+    {
+      "name": "C++",
+      "color": "#f34b7d",
+      "bytes": 3227558
+    },
+    {
+      "name": "TeX",
+      "color": "#3D6117",
+      "bytes": 536436
+    },
+    {
+      "name": "Shell",
+      "color": "#89e051",
+      "bytes": 216172
+    },
+    {
+      "name": "Go",
+      "color": "#00ADD8",
+      "bytes": 168778
+    },
+    {
+      "name": "MDX",
+      "color": "#fcb32c",
+      "bytes": 152489
+    },
+    {
+      "name": "Java",
+      "color": "#b07219",
+      "bytes": 115332
+    },
+    {
+      "name": "CSS",
+      "color": "#663399",
+      "bytes": 88957
+    },
+    {
+      "name": "PowerShell",
+      "color": "#012456",
+      "bytes": 74186
+    },
+    {
+      "name": "C",
+      "color": "#555555",
+      "bytes": 67853
+    },
+    {
+      "name": "Stylus",
+      "color": "#ff6347",
+      "bytes": 64442
+    },
+    {
+      "name": "Less",
+      "color": "#1d365d",
+      "bytes": 63132
+    },
+    {
+      "name": "SCSS",
+      "color": "#c6538c",
+      "bytes": 43931
+    },
+    {
+      "name": "Pug",
+      "color": "#a86454",
+      "bytes": 25313
+    },
+    {
+      "name": "Vue",
+      "color": "#41b883",
+      "bytes": 19241
+    },
+    {
+      "name": "Batchfile",
+      "color": "#C1F12E",
+      "bytes": 17418
+    },
+    {
+      "name": "Dockerfile",
+      "color": "#384d54",
+      "bytes": 15730
+    },
+    {
+      "name": "Emacs Lisp",
+      "color": "#c065db",
+      "bytes": 5041
+    },
+    {
+      "name": "Inno Setup",
+      "color": "#264b99",
+      "bytes": 3359
+    },
+    {
+      "name": "HLSL",
+      "color": "#aace60",
+      "bytes": 3261
+    },
+    {
+      "name": "Smarty",
+      "color": "#f0c040",
+      "bytes": 3014
+    },
+    {
+      "name": "Go Template",
+      "color": "#00ADD8",
+      "bytes": 2777
+    },
+    {
+      "name": "Makefile",
+      "color": "#427819",
+      "bytes": 2726
+    },
+    {
+      "name": "Ruby",
+      "color": "#701516",
+      "bytes": 1792
+    },
+    {
+      "name": "Awk",
+      "color": "#c30e9b",
+      "bytes": 717
+    },
+    {
+      "name": "Mako",
+      "color": "#7e858d",
+      "bytes": 469
+    },
+    {
+      "name": "Lua",
+      "color": "#000080",
+      "bytes": 422
+    },
+    {
+      "name": "VBScript",
+      "color": "#15dcdc",
+      "bytes": 370
+    }
+  ]
+}
