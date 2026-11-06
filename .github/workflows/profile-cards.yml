@@ -20,5 +20,4 @@ jobs:
       - uses: casta-mere/better-github-profile@v1
         with:
           token: ${{ secrets.STATS_TOKEN }}
-          include_forks: true
-          exclude_langs: HTML
+          theme: strip
