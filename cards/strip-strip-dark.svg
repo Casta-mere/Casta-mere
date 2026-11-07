@@ -11,11 +11,11 @@ text{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-size:1
 <path d="M239.28 9v28" stroke="#3d444d"/>
 <path d="M317.5 9v28" stroke="#3d444d"/>
 <path d="M375.76 9v28" stroke="#3d444d"/>
-<text x="15" y="27.5"><tspan class="n">2,734</tspan> <tspan class="m" dx="1.6">contributions</tspan></text>
-<text x="149.02" y="27.5"><tspan class="n">912</tspan> <tspan class="m" dx="1.6">past year</tspan></text>
+<text x="15" y="27.5"><tspan class="n">2,741</tspan> <tspan class="m" dx="1.6">contributions</tspan></text>
+<text x="149.02" y="27.5"><tspan class="n">919</tspan> <tspan class="m" dx="1.6">past year</tspan></text>
 <text x="253.78" y="27.5"><tspan class="n">61</tspan> <tspan class="m" dx="1.6">repos</tspan></text>
 <text x="332" y="27.5">★ <tspan class="n">21</tspan></text>
-<text x="390.26" y="27.5"><tspan class="n">20</tspan> <tspan class="m" dx="1.6">followers</tspan></text>
+<text x="390.26" y="27.5"><tspan class="n">21</tspan> <tspan class="m" dx="1.6">followers</tspan></text>
 <text class="m" x="0" y="63.5">52 wks</text>
 <rect class="wk" x="50.09" y="63.79" width="2.04" height="4.21"/>
 <rect class="wk" x="53.13" y="66.13" width="2.04" height="1.87"/>
@@ -69,7 +69,7 @@ text{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-size:1
 <rect class="wk" x="198.94" y="55.38" width="2.04" height="12.62"/>
 <rect class="wk" x="201.98" y="50" width="2.04" height="18"/>
 <rect class="wk" x="205.02" y="55.38" width="2.04" height="12.62"/>
-<rect class="wk" x="208.05" y="53.97" width="2.04" height="14.03"/>
+<rect class="wk" x="208.05" y="52.34" width="2.04" height="15.66"/>
 <text class="m" x="222.09" y="63.5">langs</text>
 <clipPath id="bgp-strip-strip-dark"><rect x="263.34" y="56" width="160" height="6" rx="3"/></clipPath>
 <g clip-path="url(#bgp-strip-strip-dark)" opacity="0.75">
