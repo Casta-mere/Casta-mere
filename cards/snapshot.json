@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T10:15:52.569Z",
+  "generatedAt": "2026-11-08T10:26:59.801Z",
   "user": {
     "login": "Casta-mere",
     "name": "Castamere",
@@ -55,7 +55,6 @@
   },
   "calendar": {
     "weeks": [
-      18,
       8,
       4,
       1,
@@ -107,7 +106,8 @@
       54,
       77,
       54,
-      67
+      67,
+      0
     ]
   },
   "languages": [
