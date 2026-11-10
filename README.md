@@ -8,9 +8,10 @@
 - 🎵 I like Avicii ◢ ◤
 - 📫 How to reach me: [castamerego@gmail.com](mailto:castamerego@gmail.com)
 
-![GitHub stats](cards/strip-strip-light.svg#gh-light-mode-only)
-![GitHub stats](cards/strip-strip-dark.svg#gh-dark-mode-only)
-
+![GitHub stats](cards/native-overview-light.svg#gh-light-mode-only)
+![GitHub stats](cards/native-overview-dark.svg#gh-dark-mode-only)
+![Top languages](cards/native-languages-light.svg#gh-light-mode-only)
+![Top languages](cards/native-languages-dark.svg#gh-dark-mode-only)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,pycharm,bash,linux,windows,ubuntu,apple)](https://skillicons.dev)
 
