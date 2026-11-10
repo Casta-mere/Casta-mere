@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T00:30:59.226Z",
+  "generatedAt": "2026-11-10T11:16:43.929Z",
   "user": {
     "login": "Casta-mere",
     "name": "Castamere",
@@ -45,10 +45,10 @@
     ]
   },
   "contributions": {
-    "allTime": 2743,
-    "pastYear": 903,
-    "commits": 741,
-    "pullRequests": 98,
+    "allTime": 2758,
+    "pastYear": 918,
+    "commits": 749,
+    "pullRequests": 105,
     "issues": 25,
     "reviews": 17,
     "private": 0
@@ -107,7 +107,7 @@
       77,
       54,
       67,
-      2
+      17
     ]
   },
   "languages": [
@@ -124,7 +124,7 @@
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "bytes": 4304497
+      "bytes": 4358348
     },
     {
       "name": "JavaScript",
@@ -164,7 +164,7 @@
     {
       "name": "CSS",
       "color": "#663399",
-      "bytes": 94672
+      "bytes": 95759
     },
     {
       "name": "PowerShell",
