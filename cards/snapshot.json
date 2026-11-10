@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T11:37:54.674Z",
+  "generatedAt": "2026-11-10T00:30:59.226Z",
   "user": {
     "login": "Casta-mere",
     "name": "Castamere",
     "createdYear": 2021,
-    "followers": 21
+    "followers": 20
   },
   "repos": {
-    "count": 61,
+    "count": 69,
     "stars": 21,
     "forks": 5,
     "top": [
@@ -45,9 +45,9 @@
     ]
   },
   "contributions": {
-    "allTime": 2741,
-    "pastYear": 901,
-    "commits": 739,
+    "allTime": 2743,
+    "pastYear": 903,
+    "commits": 741,
     "pullRequests": 98,
     "issues": 25,
     "reviews": 17,
@@ -107,24 +107,34 @@
       77,
       54,
       67,
-      0
+      2
     ]
   },
   "languages": [
     {
-      "name": "HTML",
-      "color": "#e34c26",
-      "bytes": 4189565
-    },
-    {
       "name": "Python",
       "color": "#3572A5",
-      "bytes": 3322453
+      "bytes": 5452155
+    },
+    {
+      "name": "C#",
+      "color": "#7355dd",
+      "bytes": 5087006
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "bytes": 1615900
+      "bytes": 4304497
+    },
+    {
+      "name": "JavaScript",
+      "color": "#f1e05a",
+      "bytes": 4236842
+    },
+    {
+      "name": "C++",
+      "color": "#f34b7d",
+      "bytes": 3227558
     },
     {
       "name": "TeX",
@@ -134,12 +144,12 @@
     {
       "name": "Shell",
       "color": "#89e051",
-      "bytes": 200566
+      "bytes": 216172
     },
     {
-      "name": "JavaScript",
-      "color": "#f1e05a",
-      "bytes": 183066
+      "name": "Go",
+      "color": "#00ADD8",
+      "bytes": 168778
     },
     {
       "name": "MDX",
@@ -154,7 +164,27 @@
     {
       "name": "CSS",
       "color": "#663399",
-      "bytes": 72022
+      "bytes": 94672
+    },
+    {
+      "name": "PowerShell",
+      "color": "#012456",
+      "bytes": 74186
+    },
+    {
+      "name": "C",
+      "color": "#555555",
+      "bytes": 67853
+    },
+    {
+      "name": "Stylus",
+      "color": "#ff6347",
+      "bytes": 64442
+    },
+    {
+      "name": "Less",
+      "color": "#1d365d",
+      "bytes": 63132
     },
     {
       "name": "SCSS",
@@ -162,14 +192,24 @@
       "bytes": 43931
     },
     {
+      "name": "Pug",
+      "color": "#a86454",
+      "bytes": 25313
+    },
+    {
       "name": "Vue",
       "color": "#41b883",
       "bytes": 19241
     },
     {
+      "name": "Batchfile",
+      "color": "#C1F12E",
+      "bytes": 17418
+    },
+    {
       "name": "Dockerfile",
       "color": "#384d54",
-      "bytes": 6404
+      "bytes": 15730
     },
     {
       "name": "Emacs Lisp",
@@ -177,34 +217,34 @@
       "bytes": 5041
     },
     {
+      "name": "Inno Setup",
+      "color": "#264b99",
+      "bytes": 3359
+    },
+    {
+      "name": "HLSL",
+      "color": "#aace60",
+      "bytes": 3261
+    },
+    {
+      "name": "Smarty",
+      "color": "#f0c040",
+      "bytes": 3014
+    },
+    {
       "name": "Go Template",
       "color": "#00ADD8",
       "bytes": 2777
     },
     {
-      "name": "C",
-      "color": "#555555",
-      "bytes": 2010
-    },
-    {
       "name": "Makefile",
       "color": "#427819",
-      "bytes": 1871
+      "bytes": 2726
     },
     {
       "name": "Ruby",
       "color": "#701516",
       "bytes": 1792
-    },
-    {
-      "name": "Smarty",
-      "color": "#f0c040",
-      "bytes": 1232
-    },
-    {
-      "name": "Batchfile",
-      "color": "#C1F12E",
-      "bytes": 1186
     },
     {
       "name": "Awk",
@@ -215,11 +255,6 @@
       "name": "Mako",
       "color": "#7e858d",
       "bytes": 469
-    },
-    {
-      "name": "C#",
-      "color": "#7355dd",
-      "bytes": 450
     },
     {
       "name": "Lua",
