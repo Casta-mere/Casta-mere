@@ -16,23 +16,23 @@ text{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 <text class="h" x="21" y="33">Languages</text>
 <clipPath id="bgp-native-languages-light"><rect x="21" y="49" width="288" height="8" rx="4"/></clipPath>
 <g clip-path="url(#bgp-native-languages-light)" opacity="0.75">
-<rect x="21" y="49" width="63.11" height="8" fill="#3572A5"/>
-<rect x="86.11" y="49" width="58.66" height="8" fill="#7355dd"/>
-<rect x="146.76" y="49" width="50.32" height="8" fill="#3178c6"/>
-<rect x="199.08" y="49" width="48.93" height="8" fill="#f1e05a"/>
-<rect x="250.01" y="49" width="37.25" height="8" fill="#f34b7d"/>
-<rect x="289.26" y="49" width="19.74" height="8" fill="#8b949e"/>
+<rect x="21" y="49" width="62.77" height="8" fill="#3572A5"/>
+<rect x="85.77" y="49" width="58.6" height="8" fill="#7355dd"/>
+<rect x="146.36" y="49" width="51.1" height="8" fill="#3178c6"/>
+<rect x="199.47" y="49" width="48.88" height="8" fill="#f1e05a"/>
+<rect x="250.34" y="49" width="37.21" height="8" fill="#f34b7d"/>
+<rect x="289.56" y="49" width="19.44" height="8" fill="#8b949e"/>
 </g>
 <circle cx="25" cy="76" r="4" fill="#3572A5" opacity="0.8"/>
-<text class="lg" x="35" y="80">Python <tspan class="m" dx="1">22.7%</tspan></text>
+<text class="lg" x="35" y="80">Python <tspan class="m" dx="1">22.6%</tspan></text>
 <circle cx="175" cy="76" r="4" fill="#7355dd" opacity="0.8"/>
 <text class="lg" x="185" y="80">C# <tspan class="m" dx="1">21.1%</tspan></text>
 <circle cx="25" cy="96" r="4" fill="#3178c6" opacity="0.8"/>
-<text class="lg" x="35" y="100">TypeScript <tspan class="m" dx="1">18.1%</tspan></text>
+<text class="lg" x="35" y="100">TypeScript <tspan class="m" dx="1">18.4%</tspan></text>
 <circle cx="175" cy="96" r="4" fill="#f1e05a" opacity="0.8"/>
 <text class="lg" x="185" y="100">JavaScript <tspan class="m" dx="1">17.6%</tspan></text>
 <circle cx="25" cy="116" r="4" fill="#f34b7d" opacity="0.8"/>
 <text class="lg" x="35" y="120">C++ <tspan class="m" dx="1">13.4%</tspan></text>
 <circle cx="175" cy="116" r="4" fill="#8b949e" opacity="0.8"/>
-<text class="lg" x="185" y="120">Other <tspan class="m" dx="1">7.1%</tspan></text>
+<text class="lg" x="185" y="120">Other <tspan class="m" dx="1">7.0%</tspan></text>
 </svg>
