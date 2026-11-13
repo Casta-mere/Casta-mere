@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T11:18:08.042Z",
+  "generatedAt": "2026-11-13T11:03:51.362Z",
   "user": {
     "login": "Casta-mere",
     "name": "Castamere",
@@ -45,10 +45,10 @@
     ]
   },
   "contributions": {
-    "allTime": 2765,
-    "pastYear": 925,
-    "commits": 751,
-    "pullRequests": 109,
+    "allTime": 2772,
+    "pastYear": 932,
+    "commits": 752,
+    "pullRequests": 115,
     "issues": 25,
     "reviews": 18,
     "private": 0
@@ -107,7 +107,7 @@
       77,
       54,
       67,
-      24
+      31
     ]
   },
   "languages": [
